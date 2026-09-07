@@ -20,6 +20,7 @@ CGPA: 3.76 / 4.00 (till 6th semester)
 - Secured 56th (out of 313) place at [ICPC Dhaka Regional 2025](https://bapsoj.org/contests/icpc-dhaka-onsite-2025/standings) (Team: KU_First_Team)
 
 **IUPC**
+- Secured 4th (out of 41) place at [PSTU IUPC 2026 (South Zone)](https://toph.co/c/pstu-inter-university-2026-south-zone/standings) (Team: KUe_Miras_Bobo)
 - Secured 5th (out of 86) place at [NDUB IUPC 2026](https://toph.co/c/ndub-cse-iupc-2026/standings) (Team: KUe_Miras_Bobo)
 - Secured 7th (out of 65) place at [NWU IUPC 2025](https://coderoj.com/c/nwu-cse-fest-2025/standings) (Team: Kue_miras_bobo)
 - Secured 34th (out of 130) place at [SUST IUPC 2026](https://toph.co/c/sust-inter-university-2026/standings) (Team: KUe_Miras_Bobo)
