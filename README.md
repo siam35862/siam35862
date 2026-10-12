@@ -17,7 +17,7 @@ CGPA: 3.76 / 4.00 (till 6th semester)
 ### Onsite Programming Contest
 
 **ICPC**
-- Secured 56th (out of 313) place at [ICPC Dhaka Regional 2025](https://bapsoj.org/contests/icpc-dhaka-onsite-2025/standings) (Team: KU_First_Team)
+- Secured 55th (out of 311) place at [ICPC Dhaka Regional 2025](https://icpc.global/regionals/finder/Dhaka-2026/standings) (Team: KU_First_Team)
 
 **IUPC**
 - Secured 4th (out of 41) place at [PSTU IUPC 2026 (South Zone)](https://toph.co/c/pstu-inter-university-2026-south-zone/standings) (Team: KUe_Miras_Bobo)
